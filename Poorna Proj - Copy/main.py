@@ -6,7 +6,7 @@ from PySide2.QtGui import (QBrush, QColor, QConicalGradient, QCursor, QFont, QFo
 
 from PySide2.QtWidgets import *
 
-from UI.LandingPage import *
+from UI.ui_LandingPage import *
 
 from os import environ
 
